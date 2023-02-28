@@ -6,3 +6,4 @@ List of containers inside
 - Homeassistant
 - Uptimekuma
 - Portainer
+- Hedgedoc
